@@ -1,0 +1,152 @@
+body {
+  background-color: #F4F9F9;
+  margin: 0;
+  text-align: center;
+}
+
+.div {
+
+  /*top container*/
+  color: #91aa9b;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  /*1rem = 16px */
+  font-size: 5.625rem;
+  margin-top: 10px;
+  margin-bottom: -2px;
+}
+.font{
+  font-family: 'Signika Negative', sans-serif;
+}
+.h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 2rem;
+  color:#91aa9b;
+  font-weight: 600;
+}
+.top{
+  background-image: linear-gradient(#e7fad6,#EDF6E5,#EDF6E5,#EDF6E5,#EDF6E5,#EDF6E5,#F4F9F9);
+}
+.top-cloud {
+  padding-top: 100px;
+  position: relative;
+  left: 350px;
+  background-image: linear-gradient(#CEE5D0,#EDF6E5);
+}
+hr{
+  border-top: dotted 10px;
+  width: 6%;
+  color: #C4D7E0;
+}
+.bottom-cloud {
+  background-image: linear-gradient(#CEE5D0,#CEE5D0,#EDF6E5);
+  position: absolute;
+  left: 250px;
+  padding-top: 450px;
+}
+
+h3{
+
+  color: #4e7661;
+}
+a{
+  color: #4e7661;
+}
+h2{
+    color: #4e7661;
+    font-size: 36px;
+    font-weight: normal;
+}
+.contact-me{
+  font-family: 'Signika Negative', sans-serif;
+  width: 40%;
+  margin: 0 auto 0 auto;
+  padding-bottom: 70px;
+}
+.hello{
+  width:15%;
+  margin-top: 100px;
+}
+.pello{
+  width: 50%;
+  margin: 0 auto 0 auto;
+  padding-bottom: 50px;
+}
+.skill-row{
+  margin: 50px auto 50px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+.mtn{
+  position: relative;
+  bottom: 40px;
+  border-radius: 20px;
+}
+.icons{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.gif{
+  border-radius: 10%;
+  width: 25%;
+  margin-left: 40px;
+  float: right;
+
+}
+.btn {
+  font-size:15px;
+  font-family:Arial;
+  width:140px;
+  height:40px;
+  border-width:1px;
+  color:#31087B;
+  border-color:#18ab29;
+  font-weight:bold;
+  border-top-left-radius:28px;
+  border-top-right-radius:28px;
+  border-bottom-left-radius:28px;
+  border-bottom-right-radius:28px;
+  text-shadow: 1px 1px 0 #2f6627;
+  background:#CFE8A9;
+  margin: 30px auto 0 auto;
+  padding-top: 20px;
+}
+.btn1{
+  text-decoration: none;
+  opacity: 70%;
+}
+.btn1:hover{
+  opacity: 90%;
+}
+.btn:hover {
+  background: #5cbf2a;
+  opacity: 90%;
+}
+.bottom-container{
+  background-image: linear-gradient(#CFE8A9,#CFE8A9,#cbf290);
+  padding-bottom: 0.1px;
+  padding-top: 40px;
+}
+a{
+  text-decoration: none;
+}
+.footer-link{
+  font-family: sans-serif;
+  opacity: 60%;
+  display: inline-block;
+  width: 130px;
+  font-size: 25px;
+  font-weight: bold;
+}
+.footer-link:hover{
+  opacity:90%;
+}
+.cp{
+  padding-top: 20px;
+  color: black;
+}
